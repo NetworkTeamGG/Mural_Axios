@@ -1,4 +1,4 @@
-# mural_vuejs_axios
+# Mural Axios
 
 ## Project setup
 ```
